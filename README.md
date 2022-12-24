@@ -13,6 +13,7 @@ You can here:
 3.2) Check next profile: press button "👎 next"
 4) You can find contacts of all your friends: /friend-list
 5) You check current status of your friend-requests: /requested_list
+
 If you send a friend-request recipient will be notified and able to send a reply
 If you received a friend-request senders profile will be shown to you next in "Find a new friend" section
 If you accept a friend-request then I will send you both contacts of each other'
