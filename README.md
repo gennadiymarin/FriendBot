@@ -3,6 +3,7 @@
 Hi there!
 I am a bot which is going to help you to make new friends!
 Before we begin make sure that you have a profile. In other case create it by command /start
+
 You can here:
 1) Check your profile: /check_profile
 2) Edit your profile: /check_profile -> press button "Edit"
